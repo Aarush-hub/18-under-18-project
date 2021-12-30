@@ -1,0 +1,42 @@
+body{
+text-align: center;
+background-color: dodgerblue;
+}
+
+#sect1 {
+background-color: dodgerblue;
+z-index: 9;
+}
+
+h1{
+font-size: 70;
+font-family: fantasy;
+}
+
+#mangalore-img{
+    border-radius: 20px; 
+    width: 500px;
+    margin-bottom: 50px;
+    padding: 30px;
+}
+
+#sectbtn-1{
+background-color: firebrick;
+z-index: 9;
+}
+#sectbtn-2{
+    background-color: rgb(34, 132, 178);
+    z-index: 9;
+    }
+#sectbtn-3{
+background-color: rgb(104, 178, 34);
+z-index: 9;
+}
+#sectbtn-4{
+background-color: rgb(34, 84, 178);
+z-index: 9;
+}
+#sectbtn-5{
+background-color: rgb(176, 178, 34);
+z-index: 9;
+}

@@ -1,0 +1,80 @@
+body{
+text-align: center;
+background-color: dodgerblue;
+}
+
+#mallssect1{
+background-color: lightskyblue;
+z-index: 9;
+}
+
+h1{
+font-size: 70;
+font-family: fantasy;
+}
+
+h2{
+font-size: 70;
+font-family: fantasy;
+}
+
+h3{
+    font-size: 40;
+    font-family: fantasy;
+}
+
+h4{
+    font-size: 40;
+    font-family: fantasy;
+}
+h5{
+    font-size: 40;
+    font-family: fantasy;
+}
+h6{
+    font-size: 40;
+    font-family: fantasy;
+}
+
+#forum-fizza-mall{
+    border-radius: 20px;
+    width: 600px;
+    margin-bottom: 50px;
+    padding: 30px;
+}
+
+#mallssect2{
+    background-color: rgb(233, 73, 73);
+    z-index: 9;
+    }
+
+#City-Center-Mall{
+    border-radius: 20px;
+    width: 600px;
+    margin-bottom: 50px;
+     padding: 30px;
+ }
+
+ #mallssect3{
+    background-color: peru;
+    z-index: 9;
+    }
+
+    #Bharath-Mall{
+        border-radius: 20px;
+        width: 600px;
+        margin-bottom: 50px;
+         padding: 30px;
+     }
+
+#Empire-Mall{
+    border-radius: 20px;
+    width: 600px;
+    margin-bottom: 50px;
+     padding: 30px;
+}
+
+#mallssect4{
+    background-color: rgb(63, 205, 151);
+    z-index: 9;
+    }

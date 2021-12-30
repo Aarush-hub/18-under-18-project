@@ -1,0 +1,58 @@
+body{
+    text-align: center;
+    background-color: dodgerblue;
+    }
+    
+    #templessect1{
+    background-color: lightskyblue;
+    z-index: 9;
+    }
+    
+    h1{
+    font-size: 70;
+    font-family: fantasy;
+    }
+    
+    h2{
+    font-size: 70;
+    font-family: fantasy;
+    }
+    
+    h3{
+        font-size: 40;
+        font-family: fantasy;
+    }
+    
+    h4{
+        font-size: 40;
+        font-family: fantasy;
+    }
+    h5{
+        font-size: 40;
+        font-family: fantasy;
+    }
+    h6{
+        font-size: 40;
+        font-family: fantasy;
+    }
+    
+    #Kudroli-Temple{
+        border-radius: 20px;
+        width: 600px;
+        margin-bottom: 50px;
+        padding: 30px;
+    }
+    
+    #templessect2{
+        background-color: rgb(233, 73, 73);
+        z-index: 9;
+        }
+    
+    #Sharavu-Temple{
+        border-radius: 20px;
+        width: 600px;
+        margin-bottom: 50px;
+         padding: 30px;
+     }
+    
+ 
